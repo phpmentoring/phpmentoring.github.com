@@ -356,6 +356,15 @@ footer a:hover {
   color: #444;
 }
 
+h1 + section,
+h2 + section,
+h3 + section,
+h4 + section,
+h5 + section,
+h6 + section {
+  padding-left: 1.5em;
+}
+
 /* MISC */
 .clearfix:after {
   clear: both;
