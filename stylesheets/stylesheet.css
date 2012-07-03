@@ -224,6 +224,10 @@ form {
 
 /* GENERAL ELEMENT TYPE STYLES */
 
+nav li {
+	display: inline;
+}
+
 #main-content h1 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 2.8em;
