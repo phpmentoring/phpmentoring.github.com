@@ -156,6 +156,9 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
 }
+aside a.button.discussion {
+  background-image: url(../images/discussion-button.png);
+}
 
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
