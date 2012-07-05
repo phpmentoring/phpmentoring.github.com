@@ -159,6 +159,9 @@ aside a.button {
 aside a.button.discussion {
   background-image: url(../images/discussion-button.png);
 }
+aside a.button.document {
+  background-image: url(../images/document-button.png);
+}
 
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
