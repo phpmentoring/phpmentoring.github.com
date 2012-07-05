@@ -12,13 +12,7 @@
     <title>PHP Mentoring | Guidelines and Rules</title>
   </head>
   <body>
-    <header>
-      <div class="inner">
-        <h1>PHP Mentoring</h1>
-        <h2>building strong developers</h2>
-        <a href="https://github.com/phpmentoring" class="button"><small>Our organization on</small>GitHub</a>
-      </div>
-    </header>
+    {% include header.html %}
     <div id="content-wrapper">
       <nav id="main-nav" class="inner clearfix">
         <ul>
@@ -101,14 +95,7 @@
               </ul>
           </section>
         </section>
-        <aside id="sidebar">
-          <a href="http://webchat.freenode.net?channels=phpmentoring&uio=MTE9MjI2dd" class="button discussion" title="#phpmentoring on irc.freenode.net" target="_blank">
-            Join Us On IRC
-          </a>
-          <a href="https://github.com/phpmentoring/phpmentoring.github.com/wiki/Mentors-and-Apprentices" class="button document" target="_blank">
-            Sign Up
-          </a>
-        </aside>
+        {% include sidebar.html %}
       </div>
     </div>
   </body>
