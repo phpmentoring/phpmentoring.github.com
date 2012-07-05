@@ -11,9 +11,11 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    {% include header.html %}
-    {{ content }}
-    {% include sidebar.html %}
-    {% include footer.html %}
+    <div id="content-wrapper">
+      {% include header.html %}
+      {{ content }}
+      {% include sidebar.html %}
+      {% include footer.html %}
+    </div>
   </body>
 </html>
