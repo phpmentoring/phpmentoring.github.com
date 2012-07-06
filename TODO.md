@@ -3,6 +3,7 @@ To Do List for PHP Mentoring website
 ------------------------------------
 Content additions
 -----------------
+
 ###Add What is Mentorship? page
 * Overview of mentorship
 * Types of mentorships
@@ -11,6 +12,7 @@ Content additions
     * Long or Short term
     * Group or One-on-One
 Detailed descriptions of the different types of mentorships, their pros and cons, and when to use each type.
+
 ###Add Why be Mentored? page
 * Information
 * Role modeling
@@ -18,6 +20,7 @@ Detailed descriptions of the different types of mentorships, their pros and cons
 * Networking
 * Interaction
 Information about each benefit. Perhaps combine with Why Mentor?
+
 ###Add Why Mentor? page
 * Learning
 * Recognition
@@ -25,6 +28,7 @@ Information about each benefit. Perhaps combine with Why Mentor?
 * Reciprocation
 * Intangibles
 Information about each benefit. Perhaps combine with Why be Mentored?
+
 ###Expand Guidelines page
 * Add Resources section
 * Add Getting Started section
