@@ -30,7 +30,6 @@ Information about each benefit. Perhaps combine with Why Mentor?
 Information about each benefit. Perhaps combine with Why be Mentored?
 
 ###Expand Guidelines page
-* Add Resources section
 * Add Getting Started section
 * Expand Pairing section
     * Perhaps move Finding a Partner to Getting Started?
