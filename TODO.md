@@ -30,4 +30,4 @@ Information about each benefit. Perhaps combine with Why be Mentored?
 *Add Getting Started section
 *Expand Pairing section
     *Perhaps move Finding a Partner to Getting Started?
-    *Perhaps move Long Term Maintenance to its own secton?
+    *Perhaps move Long Term Maintenance to its own section?
