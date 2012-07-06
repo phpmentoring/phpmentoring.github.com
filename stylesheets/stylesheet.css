@@ -71,7 +71,7 @@ header {
   border-bottom: solid 1px #275da1;
 }
 
-header h1 {
+header h1, header h1 a, header h1 a:active {
   letter-spacing: -1px;
   font-size: 72px;
   color: #fff;
