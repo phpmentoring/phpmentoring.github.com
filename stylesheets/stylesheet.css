@@ -336,13 +336,13 @@ blockquote {
 }
 
 ul li {
-  list-style: disc inside;
-  padding-left: 20px;
+  list-style: disc outside;
+  margin-left: 20px;
 }
 
 ol li {
-  list-style: decimal inside;
-  padding-left: 20px;
+  list-style: decimal outside;
+  margin-left: 20px;
 }
 
 
