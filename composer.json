@@ -1,0 +1,14 @@
+{
+	"name": "phpmentoring/phpmentoring-website",
+	"description": "PHPMentoring.org website",
+	"require": {
+		"php": ">=5.3.2",
+		"silverstripe/cms": "3.0.*@stable",
+		"silverstripe/framework": "3.0.*@stable"
+	},
+	"require-dev": {
+		"silverstripe/compass": "*",
+		"silverstripe/docsviewer": "*"
+	},
+	"minimum-stability": "dev"
+}
