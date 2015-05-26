@@ -1,6 +1,6 @@
 PHP Mentoring
 ===============
-This is the repository for phpmentoring.org, the location for our mentoring organization's website
+This is the repository for [phpmentoring.org](http://phpmentoring.org), the location for our mentoring organization's website.
 We welcome pull requests and involvement.  Please visit the site itself to learn more about the organization.
 
 These aren't the droids you're looking for...
